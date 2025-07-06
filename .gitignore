@@ -1,1 +1,42 @@
 venv
+# Carpeta de la documentació generada per MkDocs
+/site/
+
+# Fitxers de sistema
+.DS_Store
+Thumbs.db
+
+# Fitxers temporals de l'editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Fitxers de Python compilats
+__pycache__/
+*.pyc
+*.pyo
+
+# Fitxers temporals de LaTeX o compilar PDF
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Fitxers PDF generats
+*.pdf
+
+# Fitxers temporals de test o generació automàtica
+output*
+temp.*
+*.bak
+*.tmp
+
+# Altres directoris que només s’usen localment
+pdf-images/

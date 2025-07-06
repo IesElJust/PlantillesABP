@@ -1,14 +1,14 @@
-site_name: Plantilles ABP - IES Jaume el Just
+site_name: Instal·lació i manteniment de xarxes
 site_author: JB Talens
-site_url: https://juatafe.github.io/PlantillesABP/
+site_url: https://juatafe.github.io/elweb/md-docs/IMX/
 
 theme:
   name: material
-  logo: "assets/img/logos/logoJust.png"
-  favicon: "assets/img/logos/logo50.ico"
+  logo: "img/logos/logoJust.png"
+  favicon: "img/logos/logo50.ico"
   language: ca
   features:
-    - navigation.top
+    - navigation.top # Botó de "Back to top"
     - navigation.footer
     - toc.follow
     - content.code.copy
@@ -26,12 +26,14 @@ theme:
         icon: material/brightness-4
         name: Mode clar
 
+
 extra:
   logo: |
     <div class="md-logo-container">
       <a href="https://portal.edu.gva.es/iesjaumeeljust/" target="_blank" class="logo-just"></a>
       <a href="https://ceice.gva.es/va/web/educacion" target="_blank" class="logo-gvanext"></a>
     </div>
+
   social:
     - icon: material/email
       link: mailto:jb.talensfelis@edu.gva.es
@@ -39,22 +41,15 @@ extra:
   consent:
     title: Consentiment de Cookies
     description: Utilitzem cookies per reconèixer les vostres visites i preferències repetides, així com per mesurar l'eficàcia de la nostra documentació i si els usuaris troben el que estan cercant. Amb el vostre consentiment, ens esteu ajudant a millorar la nostra documentació.
-  generator: false
+  generator: false  # Oculta "Made with Material for MkDocs"
 
 copyright: |
-  <div class="custom-footer">
-    <div class="footer-logo footer-left"></div>
-    <span class="footer-text">© 2025 Llicència CC BY-NC-SA 4.0</span>
-    <div class="footer-logo footer-right"></div>
-  </div>
+    <div class="custom-footer">
+      <div class="footer-logo footer-left"></div>
+      <span class="footer-text">© 2025 Llicència CC BY-NC-SA 4.0</span>
+      <div class="footer-logo footer-right"></div>
+    </div>
 
-nav:
-  - Introducció: 1.aspectes_generals.md
-  - Metodologia i recursos: 2.organitzadios_previs_metodologia_recursos.md
-  - Seqüenciació: 3.sequenciacio.md
-  - Sprint 1:
-      - Inici: sprint_1/index.md
-      - Activitat: sprint_1/ad.md
 
 markdown_extensions:
   - admonition
@@ -69,27 +64,38 @@ markdown_extensions:
       linenums: true
       anchor_linenums: true
       auto_title: true
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - def_list
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
 
+nav:
+  - Introducció: index.md
+  - Situacions d'aprenentatge: 
+    - Situacions.md
+    - SA1.md
+  - Criteris d'avaluació: Criteris.md
+  - Organització dels espais: Organitzacio.md
+  - Distribució del temps: Temps.md
+  - Selecció de recursos: Recursos.md
+  - Atenció a la diversitat: Diversitat.md
+  - Instruments d'avaluació: Instruments.md
+  
 extra_css:
   - assets/stylesheets/extracsspdf.css
   - assets/stylesheets/customs.css
   - assets/stylesheets/extra.css
 
+
 plugins:
   - search
   - social:
       cards_layout_options:
-        background_image: "assets/img/fondo.png"
+        background_image: "img/fondo.png"
         background_color: "#0FF1CE8F"
         text_color: "#000000"
         button_color: "#000000"
         button_text_color: "#FFFFFF"
         button_text: "Més informació"
+      
