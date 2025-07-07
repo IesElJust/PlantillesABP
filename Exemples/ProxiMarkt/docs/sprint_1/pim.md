@@ -39,3 +39,6 @@
       * [X] e) S'ha definit i elaborat la documentació necessària per a l'avaluació de les activitats i del projecte.
       * [ ] f) S'ha establit el procediment per a la participació en l'avaluació dels usuaris o clients i s'han elaborat els documents específics.
       * [ ] g) S'ha establit un sistema per a garantir el compliment del plec de condicions del projecte quan este existix.
+
+
+{{RA_criteris_DAM&&PIM&&Sprint 1}}

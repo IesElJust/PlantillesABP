@@ -8,6 +8,10 @@ La principal tasca associada al mòdul d'AD en aquest sprint serà la definició
      * **RA2.d)** S’ha establit la connexió.
      * **RA2.e)** S’ha definit l’estructura de la base de dades.
 
+
+{{RA_criteris_DAM&&AD&&Sprint 1}}
+
+
 ## Continguts
 
 * Protocols d'accés a bases de dades. Connectors.

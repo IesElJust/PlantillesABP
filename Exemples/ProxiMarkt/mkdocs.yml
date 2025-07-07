@@ -9,3 +9,14 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+
+plugins:
+  - search
+  - replace_ra_ca
+
+# Per activat el plugin replace_ra_ca cal
+# $ cd my_plugins/
+# (venv) ...Exemples/ProxiMarkt/my_plugins$ pip install -e .
+# El plugin necessita instal·lar pandas en l'entorn virtual
+# (venv) j$ pip install pandas
+# (venv) j$ pip install odfpy
