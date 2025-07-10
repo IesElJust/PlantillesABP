@@ -20,19 +20,32 @@ Això ens generarà una carpeta `venv` al directori on ens trobem. Si esteu a l'
 . venv/bin/activate
 ```
 
-3. Dins l'entorn (Veurem que ens diu `(venv)` davant el prompt, instal·lem mkdocs i la plantilla material:
+3. Dins l'entorn (Veurem que ens diu `(venv)` davant el prompt, instal·lem mkdocs, la plantilla material, i les llibreries Pandas o ODFPy per generar els RAs i CAs a partir dels fulls de càlcul:
 
 ```bash
-pip install mkdocs mkdocs-material
+pip install mkdocs mkdocs-material pandas odfpy
 ```
 
-4. Amb això ja podreu accedir a la carpeta de la plantilla (`plantillaGeneral`) o a algun exemple (per exemple `Exemples/ProxiMarkt`) i servir el lloc:
+>
+> És possible que tambè hàgeu de registrar el plugin persinalitzat per a la importació de les taules de RAS i CAs als projectes Per a això, en l'arrel de cada projecte (comproveu que hi ha una carpeta my_plugin):
+>
+> ```
+> pip install -e .
+> ```
 
+
+4. Amb això ja podreu accedir a la carpeta de la plantilla (`plantillaGeneral`) o a algun exemple (per exemple `Exemples/ProxiMarkt`) i servir el lloc:
+ 
 ```
 mkdocs serve
 ```
 
 Generalment, el tindreu disponible en l'adreça: `http://127.0.0.1:8000`.
+
+
+>
+> Addicionalment, si voleu fer ús de la plantilla `plantillaGeneralFull`, caldrà instal·lar `pip install mkdocs-material[imaging]`.
+> 
 
 
 5. Per desactivar l'entorn virtual, només haureu de teclejar l'ordre:
