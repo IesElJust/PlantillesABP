@@ -1,0 +1,12 @@
+site_name: Projecte
+
+theme: 
+  name: material
+  logo: img/logo.svg
+  palette:
+    primary: 'deep purple'
+
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true

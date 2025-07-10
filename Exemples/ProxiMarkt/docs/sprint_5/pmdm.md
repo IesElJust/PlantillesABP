@@ -9,10 +9,7 @@ En aquest sprint, les tasques específiques per a aquest mòdul seran:
 
 ## Resultats d'Aprenentatge i Criteris d'Avaluació
 
-* **RA2**. Desenvolupa aplicacions per a dispositius mòbils analitzant i emprant les tecnologies i llibreries específiques.
-    * **RA2.b)** S’han analitzat i utilitzat les classes que modelen finestres, menús, alertes i controls per al desenvolupament d’aplicacions gràfiques senzilles.
-    * **RA2.d)** S’han desenvolupat aplicacions que fan ús de les funcionalitats proporcionades pels sensors.
-    * **RA2.j)** S’han establit els permisos requerits per al funcionament de les aplicacions.
+{{ProxiMarkt&&PMDM&&Sprint 5}}
 
 ## Continguts
 

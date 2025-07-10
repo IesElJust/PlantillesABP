@@ -9,8 +9,8 @@ En aquest sprint, les tasques específiques per a aquest mòdul seran:
 
 ## Resultats d'Aprenentatge i Criteris d'Avaluació
 
-* **RA3.** Crea components visuals valorant i emprant ferramentes específiques.
-    * **RA3.d)** S’han determinat els esdeveniments als quals ha de respondre el component i s’han associat les accions corresponents.
+{{ProxiMarkt&&DI&&Sprint 5}}
+
 
 ## Continguts
 

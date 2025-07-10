@@ -1,0 +1,14 @@
+
+
+.md-typeset__table th {
+    background-color: purple;
+    color: #ffffff;
+}
+
+.md-typeset__table td, .md-typeset__table th {
+    border: 1px solid #000000;
+}
+
+.md-typeset__table .task-list-item{
+    margin-left:50%;
+}

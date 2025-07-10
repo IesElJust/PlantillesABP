@@ -14,6 +14,9 @@ plugins:
   - search
   - replace_ra_ca
 
+extra_css:
+  - assets/stylesheets/custom.css
+
 # Per activat el plugin replace_ra_ca cal
 # $ cd my_plugins/
 # (venv) ...Exemples/ProxiMarkt/my_plugins$ pip install -e .

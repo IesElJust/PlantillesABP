@@ -4,12 +4,8 @@ La principal tasca associada al mòdul d'AD en aquest sprint serà la definició
 
 ## Resultats d'Aprenentatge i Criteris d'Avaluació
 
-* **RA 2.** Desenvolupa aplicacions que gestionen informació emmagatzemada en bases de dades relacionals identificant i utilitzant mecanismes de connexió
-     * **RA2.d)** S’ha establit la connexió.
-     * **RA2.e)** S’ha definit l’estructura de la base de dades.
 
-
-{{RA_criteris_DAM&&AD&&Sprint 1}}
+{{ProxiMarkt&&AD&&Sprint 1}}
 
 
 ## Continguts

@@ -7,14 +7,8 @@ En aquest sprint, les tasques específiques per a aquest mòdul seran:
 
 ## Resultats d'Aprenentatge i Criteris d'Avaluació
 
-* **RA3.** Crea components visuals valorant i emprant ferramentes específiques.
-    * **RA3.d)** S’han determinat els esdeveniments als quals ha de respondre el component i s’han associat les accions corresponents.
+{{ProxiMarkt&&DI&&Sprint 6}}
 
-* **RA4.** Dissenya interfícies gràfiques identificant i aplicant criteris d’usabilitat i accessibilitat.
-
-    * **RA4.c)** S’han creat diferents tipus de menús l’estructura i el contingut dels quals segueixen els estàndards establerts.
-    * **RA4.d)** S’han distribuït les accions en menús, barres d’eines, botons de comandament, entre altres, seguint un criteri coherent.
-    * **RA4.e)** S’han distribuït adequadament els controls en la interfície d’usuari.
 
 ## Continguts
 

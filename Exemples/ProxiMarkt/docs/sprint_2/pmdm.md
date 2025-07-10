@@ -13,7 +13,7 @@ Caldrà realitzar també les proves necessàries d'integració amb l'API.
     * **RA2.d)** S’han desenvolupat aplicacions que fan ús de les funcionalitats proporcionades pels sensors.
     * **RA2.e)** S’han utilitzat les classes necessàries per a establir connexions i comunicacions HTTP i HTTPS.
 
-{{RA_criteris_DAM&&PMDM&&Sprint 2}}
+{{ProxiMarkt&&PMDM&&Sprint 2}}
 
 
 ## Continguts

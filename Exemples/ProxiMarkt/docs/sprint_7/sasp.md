@@ -2,7 +2,7 @@
 
 ## Resultats d'Aprenentatge i Criteris d'Avaluació
 
-Els RAs i CAs tractats seran els indicats a l'sprint 1 del projecte. En aquest sprint, s'avaluaran les propostes concretes que realitzen els alumnes, plantejant la publicitat promocional de l'aplicació (vídeos, infografies, etc.) on es justifiquen els beneficis en quant a sostenibilitat d'aquesta.
+{{ProxiMarkt&&SASP&&Sprint 7}}
 
 ## Instruments d'avaluació
 

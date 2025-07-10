@@ -6,9 +6,8 @@ La informació sobre la ubicació dels diferents productes i l'autenticació es 
 
 ## Resultats d'Aprenentatge i Criteris d'Avaluació
 
-* **RA3.** Crea components visuals valorant i emprant ferramentes específiques.
-    * **RA3.b)** S’han creat components visuals.
-    * **RA3.c)** S’han definit els seus mètodes i propietats amb assignació de valors per defecte.
+{{ProxiMarkt&&AD&&Sprint 2}}
+
 
 ## Continguts
 

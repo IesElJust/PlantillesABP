@@ -9,19 +9,17 @@ Les tasques de l'sprint relacionades amb aquest mòdul són:
 
 ## Resultats d'Aprenentatge i Criteris d'Avaluació
 
-* **RA3.** Crea components visuals valorant i emprant ferramentes específiques.
-     * **RA3.b)** S’han creat components visuals.
-     * **RA3.c)** S’han definit els seus mètodes i propietats amb assignació de valors per defecte.
+{{ProxiMarkt&&DI&&Sprint 3}}
 
 ## Continguts
 
-Generació d'interfícies d'usuari:
+* Generació d'interfícies d'usuari:
     * Enllaç de components a orígens de dades.
     * Associació d'accions a esdeveniments.
     * Edició del codi generat per la ferramenta de disseny.
     * Classes, propietats, mètodes.
     * Esdeveniments; listeners.
-Creació de components visuals:
+* Creació de components visuals:
     * Concepte de component; característiques.
     * Propietats, atributs i mètodes.
     * Esdeveniments; associació d'accions a esdeveniments.

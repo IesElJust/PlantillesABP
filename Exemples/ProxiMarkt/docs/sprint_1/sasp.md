@@ -2,69 +2,61 @@
 
 ## Resultats d'Aprenentatge i Criteris d'Avaluació
 
-* **RA2**. Caracteritza els reptes ambientals i socials als quals s’enfronta la societat, descrivint els impactes sobre les persones i els sectors productius i proposant accions per a minimitzar-los.
-     * **RA2.b)** S’han relacionat els reptes ambientals i socials amb el desenvolupament de l’activitat econòmica.
-     * **RA2.c)** S’ha analitzat l’efecte dels impactes ambientals i socials sobre les persones i els sectors productius.
-     * **RA2.d)** S’han identificat les mesures i accions encaminades a minimitzar els impactes ambientals i socials
-     * **RA2.e)** S’ha analitzat la importància d’establir aliances i treballar de manera transversal i coordinada per a abordar amb èxit els reptes ambientals i socials.
-
-* **RA 3**. Estableix l’aplicació de criteris de sostenibilitat en el rendiment professional i personal, identificant els elements necessaris.
-     * **RA3.a)** S’han identificat els ODS més rellevants per a l’activitat professional que es realitza.
-     * **RA3.b)** S’han analitzat els riscos i oportunitats que representen els ODS.
-     * **RA3.c)** S’han identificat les accions necessàries per a atendre alguns dels reptes ambientals i socials des de l’activitat professional i l’entorn personal.
+{{ProxiMarkt&&SASP&&Sprint 1}}
 
 ## Continguts
 
 1. Identificació dels principals reptes ambientals i socials:
-- Canvi climàtic.
-- Contaminació de l'aire, aigua i sòl.
-- Pèrdua de biodiversitat.
-- Esgotament de recursos naturals.
-- Desigualtat social i econòmica.
+    * Canvi climàtic.
+    * Contaminació de l'aire, aigua i sòl.
+    * Pèrdua de biodiversitat.
+    * Esgotament de recursos naturals.
+    * Desigualtat social i econòmica.
 
 2. Relació entre els reptes ambientals i socials i el desenvolupament de l'activitat econòmica:
-- Impacte de l'activitat industrial, agrícola, energètica, etc., en els reptes ambientals i socials.
-- Influència de les polítiques econòmiques i comercials en l'exacerbació o mitigació dels reptes.
+    * Impacte de l'activitat industrial, agrícola, energètica, etc., en els reptes ambientals i socials.
+    * Influència de les polítiques econòmiques i comercials en l'exacerbació o mitigació dels reptes.
 
 3. La mesura dels impactes sobre el medi ambient:
-- Avaluació de l'impacte ambiental.
-- La petjada de carboni.
+    * Avaluació de l'impacte ambiental.
+    * La petjada de carboni.
 
 4. Anàlisi de l'efecte dels impactes ambientals i socials sobre les persones i els sectors
 productius:
-- Impacte en la salut humana.
-- Riscos per a la seguretat alimentària.
-- Interrupció de cadenes de subministrament i producció.
-- Augment de costos i pèrdua de productivitat.
+    * Impacte en la salut humana.
+    * Riscos per a la seguretat alimentària.
+    * Interrupció de cadenes de subministrament i producció.
+    * Augment de costos i pèrdua de productivitat.
 
 5. Identificació de mesures i accions per a minimitzar els impactes ambientals:
-- Implementació de tecnologies netes i pràctiques sostenibles.
-- Canvis en processos industrials i agrícoles.
+    * Implementació de tecnologies netes i pràctiques sostenibles.
+    * Canvis en processos industrials i agrícoles.
 
 6. Importància d'establir aliances i treballar de manera transversal i coordinada:
-- Col·laboració entre empreses, govern, ONGs i la societat civil.
-- Necessitat de compartir recursos, coneixements i bones pràctiques.
+    * Col·laboració entre empreses, govern, ONGs i la societat civil.
+    * Necessitat de compartir recursos, coneixements i bones pràctiques.
 
 
 **Productes i activitats sostenibles**
-1.Aplicació de criteris de sostenibilitat en l'acompliment professional i personal:
-- Descripció de l'activitat professional i el seu impacte en la societat, l'economia i el medi ambient.
-- Anàlisi de com els ODS es relacionen amb eixa activitat professional.
-- Identificació dels riscos i les oportunitats, ambientals i socials, associats amb l'incompliment o la contribució als *ODS (Sinergies i *Trade-*offs o compensacions).
 
-- Integració dels ODS en l'estratègia professional i/o en la planificació de la intervenció:
-- Definició d'objectius i accions específiques per a contribuir a l'assoliment d'eixos *ODS en l'àrea
+1. Aplicació de criteris de sostenibilitat en l'acompliment professional i personal:
+    * Descripció de l'activitat professional i el seu impacte en la societat, l'economia i el medi ambient.
+    * Anàlisi de com els ODS es relacionen amb eixa activitat professional.
+    * Identificació dels riscos i les oportunitats, ambientals i socials, associats amb l'incompliment o la contribució als *ODS (Sinergies i *Trade-*offs o compensacions).
+
+    * Integració dels ODS en l'estratègia professional i/o en la planificació de la intervenció:
+    * Definició d'objectius i accions específiques per a contribuir a l'assoliment d'eixos *ODS en l'àrea
  de treball, una vegada identificats els *ODS pertinents.
-- Identificació d'accions necessàries per a abordar reptes ambientals i socials des de l'activitat professional i personal:
-- desenvolupament d'estratègies per a integrar els *ODS en la pràctica professional i en la vida quotidiana.
-- Identificació d'accions concretes que poden implementar-se per a contribuir als ODS.
-- Exploració de com estes accions poden tindre un impacte positiu tant a nivell individual com en la comunitat i l'entorn laboral.
-- Avaluació contínua per a ajustar les accions segons siga necessari i maximitzar l'impacte de l'empresa en el desenvolupament sostenible.
+    * Identificació d'accions necessàries per a abordar reptes ambientals i socials des de l'activitat professional i personal:
+    * desenvolupament d'estratègies per a integrar els *ODS en la pràctica professional i en la vida quotidiana.
+    * Identificació d'accions concretes que poden implementar-se per a contribuir als ODS.
+    * Exploració de com estes accions poden tindre un impacte positiu tant a nivell individual com en la comunitat i l'entorn laboral.
+    * Avaluació contínua per a ajustar les accions segons siga necessari i maximitzar l'impacte de l'empresa en el desenvolupament sostenible.
 
 1. Caracterització del model de producció i consum actual:
-- Model macroeconòmic actual.
-- Descripció dels principals aspectes del model lineal de producció i consum.
-- Identificació dels seus impactes ambientals i socials.
+    * Model macroeconòmic actual.
+    * Descripció dels principals aspectes del model lineal de producció i consum.
+    * Identificació dels seus impactes ambientals i socials.
 
 ## Recursos
 

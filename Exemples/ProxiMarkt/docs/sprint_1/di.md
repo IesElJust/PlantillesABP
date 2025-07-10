@@ -4,11 +4,7 @@ La principal tasca associada al mòdul de DI en aqest sprint és el disseny dels
 
 ## Resultats d'Aprenentatge i Criteris d'Avaluació
 
-* **RA1.** Genera interfícies gràfiques d’usuari mitjançant editors visuals utilitzant les funcionalitats de l’editor i adaptant el codi generat.
-       * **RA1.a)** S’han analitzat les ferramentes i llibreries disponibles per a la generació d’interfícies gràfiques
-       * **RA1.b)** S’ha creat una interfície gràfica utilitzant les ferramentes d’un editor visual.
-
-{{RA_criteris_DAM&&DI&&Sprint 1}}
+{{ProxiMarkt&&DI&&Sprint 1}}
 
 
 ## Continguts

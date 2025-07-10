@@ -8,13 +8,7 @@ En aquest sprint, les tasques específiques per a aquest mòdul seran:
 
 ## Resultats d'Aprenentatge i Criteris d'Avaluació
 
-* **RA2.** Desenvolupa aplicacions per a dispositius mòbils analitzant i emprant les tecnologies i llibreries específiques.
-    * **RA2.b)** S’han analitzat i utilitzat les classes que modelen finestres, menús, alertes i controls per al desenvolupament d’aplicacions gràfiques senzilles.
-    * **RA2.h)** S’han empaquetat i desplegat les aplicacions desenvolupades en dispositius mòbils reals.
-    * **RA2.j)** S’han establit els permisos requerits per al funcionament de les aplicacions.
-
-* **RA3**. Desenvolupa programes que integren continguts multimèdia analitzant i emprant les tecnologies i llibreries específiques.
-    * **RA3.b)** S’han reconegut les classes que permeten la captura, processament i emmagatzematge de dades multimèdia.
+{{ProxiMarkt&&PMDM&&Sprint 7}}
 
 ## Continguts
 

@@ -7,8 +7,7 @@ En aquest sprint, les tasques específiques per a aquest mòdul seran:
 
 ## Resultats d'Aprenentatge i Criteris d'Avaluació
 
-* **RA 6**. Programa components d’accés a dades identificant les característiques que ha de tindre un component i utilitzant ferramentes de desenvolupament.
-    * **RA6.b)** S’han identificat ferramentes de desenvolupament de components.
+{{ProxiMarkt&&AD&&Sprint 5}}
 
 ## Continguts
 

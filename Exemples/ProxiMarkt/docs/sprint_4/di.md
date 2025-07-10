@@ -9,9 +9,7 @@ En aquest sprint, les tasques específiques per a aquest mòdul seran:
 
 ## Resultats d'Aprenentatge i Criteris d'Avaluació
 
-* **RA4.** Dissenya interfícies gràfiques identificant i aplicant criteris d’usabilitat i accessibilitat.
-      * **RA4.f)** S’ha utilitzat el tipus de control més apropiat en cada cas.
-      * **RA4.g)** S’ha dissenyat l’aspecte de la interfície d’usuari (colors i tipus de lletra entre altres) atenent la seua llegibilitat.
+{{ProxiMarkt&&DI&&Sprint 4}}
 
 ## Continguts
 

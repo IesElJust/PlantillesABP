@@ -4,8 +4,7 @@ La principal tasca associada al mòdul de PMDM en aqest sprint és la creació d
 
 ## Resultats d'Aprenentatge i Criteris d'Avaluació
 
-* **RA2.** Desenvolupa aplicacions per a dispositius mòbils analitzant i emprant les tecnologies i llibreries específiques.
-       * **RA2.a)** S’ha generat l’estructura de classes necessària per a l’aplicació.
+{{ProxiMarkt&&PMDM&&Sprint 1}}
 
 ## Continguts
 

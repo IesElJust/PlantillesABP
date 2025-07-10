@@ -7,9 +7,7 @@ En aquest sprint, les tasques específiques per a aquest mòdul seran:
 
 ## Resultats d'Aprenentatge i Criteris d'Avaluació
 
-* **RA 4**. Desenvolupa aplicacions que gestionen la informació emmagatzemada en bases de dades objecte-relacionals i orientades a objectes valorant-ne les característiques i utilitzant els mecanismes d'accés incorporats.
-    * **RA4.b)** S’han establit i tancat connexions.
-    * **RA4.c)** S’ha gestionat la persistència d’objectes simples.
+{{ProxiMarkt&&AD&&Sprint 4}}
 
 ## Continguts
 

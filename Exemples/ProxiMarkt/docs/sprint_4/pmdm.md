@@ -8,6 +8,8 @@ En aquest sprint, les tasques específiques per a aquest mòdul seran:
 
 ## Resultats d'Aprenentatge i Criteris d'Avaluació
 
+{{ProxiMarkt&&PMDM&&Sprint 4}}
+
 * **RA2.** Desenvolupa aplicacions per a dispositius mòbils analitzant i emprant les tecnologies i llibreries específiques.
     * **RA2.f)** S’han utilitzat les classes necessàries per a establir connexions amb magatzems de dades garantint la persistència.
 

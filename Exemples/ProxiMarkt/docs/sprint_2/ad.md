@@ -9,9 +9,7 @@ Les principals tasques associades al mòdul d'AD en aquest sprint seran:
 
 ## Resultats d'Aprenentatge i Criteris d'Avaluació
 
-* **RA 2**. Desenvolupa aplicacions que gestionen informació emmagatzemada en bases de dades relacionals identificant i utilitzant mecanismes de connexió
-     * **RA2.c)** S’ha utilitzat el connector idoni en l’aplicació.
-     * **RA2.f)** S’han desenvolupat aplicacions que modifiquen el contingut de la base de dades.
+{{ProxiMarkt&&AD&&Sprint 2}}
 
 ## Continguts
 

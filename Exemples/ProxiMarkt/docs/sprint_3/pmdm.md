@@ -9,8 +9,7 @@ Les tasques de l'sprint relacionades amb aquest mòdul són:
 
 ## Resultats d'Aprenentatge i Criteris d'Avaluació
 
-* **RA3.** Desenvolupa programes que integren continguts multimèdia analitzant i emprant les tecnologies i llibreries específiques.
-     * **RA3.b)** S’han reconegut les classes que permeten la captura, processament i emmagatzematge de dades multimèdia.
+{{ProxiMarkt&&PMDM&&Sprint 3}}
 
 ## Continguts
 

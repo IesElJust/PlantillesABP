@@ -2,6 +2,7 @@
 
 ## Resultats d'Aprenentatge i Criteris d'Avaluació
 
+<!--
 * [X] **RA1**- Identifica necessitats del sector productiu relacionant-les amb projectes tipus que les puguen satisfer.
       * [ ] a) S'han classificat les empreses del sector per les seues característiques organitzatives i el tipus de producte o servei que oferixen.
       * [ ] b) S'han caracteritzat les empreses tipus indicant l'estructura organitzativa i les funcions de cada departament.
@@ -39,6 +40,6 @@
       * [X] e) S'ha definit i elaborat la documentació necessària per a l'avaluació de les activitats i del projecte.
       * [ ] f) S'ha establit el procediment per a la participació en l'avaluació dels usuaris o clients i s'han elaborat els documents específics.
       * [ ] g) S'ha establit un sistema per a garantir el compliment del plec de condicions del projecte quan este existix.
+-->
 
-
-{{RA_criteris_DAM&&PIM&&Sprint 1}}
+{{ProxiMarkt&&PIM&&Sprint 1}}

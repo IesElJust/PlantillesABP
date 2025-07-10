@@ -6,14 +6,7 @@ En aquest sprint, les tasques específiques per a aquest mòdul seran:
 
 ## Resultats d'Aprenentatge i Criteris d'Avaluació
 
-* **RA3.** Gestiona la persistència de les dades identificant ferramentes de mapatge objecte-relacional (ORM) i desenvolupant aplicacions que les utilitzen.
-    * **RA3.d)** S’han aplicat mecanismes de persistència als objectes.
-    * **RA3.e)** S’han desenvolupat aplicacions que modifiquen i recuperen objectes persistents.
-    * **RA3.f)** S’han desenvolupat aplicacions que realitzen consultes utilitzant el llenguatge SQL.
-    * **RA3.g)** S’han gestionat les transaccions.
-
-* **RA 6.** Programa components d’accés a dades identificant les característiques que ha de tindre un component i utilitzant ferramentes de desenvolupament.
-    * **RA6.e)** S’han programat components que gestionen informació utilitzant mapatge objecte-relacional.
+{{ProxiMarkt&&AD&&Sprint 6}}
 
 ## Continguts
 
@@ -25,7 +18,7 @@ En aquest sprint, les tasques específiques per a aquest mòdul seran:
     * Consultes SQL.
     * Gestió de transaccions.
     * Desenvolupament de programes que utilitzen bases de dades a través de ferramentes ORM.
-* **Programació de components d'accés a dades:**
+* **Programació de components d'accés a dades:** 
     * Concepte de component; característiques. Avantatges.
     * Propietats i atributs.
     * Esdeveniments; associació d'accions a esdeveniments.
