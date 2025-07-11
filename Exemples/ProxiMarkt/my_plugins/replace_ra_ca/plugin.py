@@ -2,12 +2,30 @@ import re
 import os
 import pandas as pd
 from mkdocs.plugins import BasePlugin
+from mkdocs.config import config_options
+
 
 class ReplaceRaCaPlugin(BasePlugin):
+    config_scheme = [
+        ('ods_path', config_options.Type(str))  # Utilitza config_options.Type(str)
+    ]
+        
     def on_config(self, config):
         # Carrega només una vegada l'ODS
-        self.ods_path = os.path.join(os.path.dirname(config.config_file_path), "ProjectesDAM.ods")
+        #ods_path = config.get('replace_ra_ca', {}).get('ods_path', 'Projectes.ods')
+        #print('INFO    -  [replace_ra_ca] plugin. Setting ods_path to '+ods_path)
+
+        #self.ods_path = os.path.join(os.path.dirname(config.config_file_path), ods_path)
+
+        # Llegim el fitxer ODS especificat en mkdocs.yml
+        ods_path = self.config.get('ods_path', 'Projectes.ods')  # Obtenc el valor de la configuració de plugin
+        self.ods_path = os.path.join(os.path.dirname(config.config_file_path), ods_path)
+   
+        # Carreguem el fitxer ODS
         self.sheets = pd.read_excel(self.ods_path, engine="odf", sheet_name=None)
+        
+        print(f'INFO    -  [replace_ra_ca] plugin. Setting ods_path to {self.ods_path}')
+
         return config
 
     def on_page_markdown(self, markdown, **kwargs):

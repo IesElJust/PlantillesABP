@@ -12,7 +12,8 @@ markdown_extensions:
 
 plugins:
   - search
-  - replace_ra_ca
+  - replace_ra_ca:
+      ods_path: 'ProjectesDAM.ods'
 
 extra_css:
   - assets/stylesheets/custom.css
